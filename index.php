@@ -1,3 +1,3 @@
 <?php
-Welcome to TCS ECP !!!!!
+echo "Welcome to TCS ECP !!!!!";
 ?>
